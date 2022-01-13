@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://www.linkedin.com/in/davi-jos%C3%A9-cunha-santos-3bb8a819b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
   <a href="https://www.instagram.com/davijozee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
-  <a href="mailto:davijosantos.dj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+  <a href="mailto:davijosantos.dj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a><br>
 </div>
