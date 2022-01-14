@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! I'm Davi Santos a brasilian student of Computer Science and Junior Dev
+# Hi! I'm Davi Santos, a brasilian student of Computer Science and Junior Dev
 
 <p>
   I'm in the 6th period at UFPI, and I'm always willing to learn new technologies
