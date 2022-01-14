@@ -1,4 +1,6 @@
-# Hi! I'm Davi Santos, a student of Computer Science and Junior Dev
+# Hi! I'm Davi Santos
+### A Junior Dev and a brasilian student of Computer Science at the UFPI currently I'm in the 6th period.
+
 
 <!--
 **Dex64ter/Dex64ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,9 +10,6 @@ Here are some ideas to get you started:
 - ✌️ I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 -->
-<p>
-  I'm a student at the UFPI. I am currently in the 6th period.
-</p>
 <div>
   <h2>🌱 I’m currently learning</h2>
   <ul>
