@@ -1,4 +1,4 @@
-# Hi! I'm Davi José, a student of Computer Science and Junior Dev
+# Hi! I'm Davi Santos, a student of Computer Science and Junior Dev
 
 <!--
 **Dex64ter/Dex64ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
