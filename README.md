@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  I'm a student at the UFPI. I am currently in the 6th period of the computing course.
+  I'm a student at the UFPI. I am currently in the 6th period.
 </p>
 <div>
   <h2>🌱 I’m currently learning</h2>
