@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div>
   <h2>🌱 I’m currently learning</h2>
   <ul>
-    <li>API using Python</li>
+    <li>Python</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>JS</li>
