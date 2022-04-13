@@ -21,6 +21,7 @@ Here are some ideas to get you started:
     <li>CSS</li>
     <li>JS</li>
     <li>React</li>
+    <li>Java</li>
   </ul>
 </div>
 
