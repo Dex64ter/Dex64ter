@@ -20,7 +20,6 @@ Here are some ideas to get you started:
     <li>HTML</li>
     <li>CSS</li>
     <li>JS</li>
-    <li>React</li>
     <li>Java</li>
   </ul>
 </div>
