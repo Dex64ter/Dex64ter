@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 <div>
   <h2>🌱 I’m currently learning</h2>
   <ul>
+    <li>ReactJS</li>
+    <li>TypeScript</li>
     <li>Python</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>JS</li>
     <li>Git</li>
-    <li>Java</li>
   </ul>
 </div>
 
@@ -46,6 +47,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Dj-css" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Dj-js" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Dj-python" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Dj-react" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Dj-ts" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Dj-Java" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Dj-mysql" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
