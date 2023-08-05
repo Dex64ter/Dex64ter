@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 # Hi! I'm Davi Santos, a brazilian student of Computer Science and Junior Dev
 
 <p>
-  I'm in the 8th period at UFPI, and I'm always willing to learn new technologies
+  Technology enthusiast, Computer Science student. Proficient in Python, JavaScript, React, open to new challenges and continuous learning. 🚀
 </p>
 
 <div>
