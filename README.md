@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! I'm Davi Santos, a brazilian student of Computer Science and Junior Dev
+# 👋 Hi, there!
 
 <p>
-  Technology enthusiast, Computer Science student. Proficient in Python, JavaScript, React, open to new challenges and continuous learning. 🚀
+  I'm Davi Santos, a brazilian student of Computer Science and Junior Dev. Technology enthusiast, proficient in Python, JavaScript, React, open to new challenges and continuous learning. 🚀
 </p>
 
 <div>
