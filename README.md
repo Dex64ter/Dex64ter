@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 # 👋 Hi, there!
 
 <p>
-  I'm Davi Santos, a brazilian student of Computer Science and Junior Dev. Technology enthusiast, proficient in Python, JavaScript, React, open to new challenges and continuous learning. 🚀
+  I'm Davi Santos, a brazilian Software Developer. Technology enthusiast, proficient in Typescript, JavaScript, React, open to new challenges and continuous learning. 🚀
 </p>
 
 <div>
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <li>ReactJS</li>
     <li>React Native</li>
     <li>TypeScript</li>
-    <li>Python</li>
+    <li>Angular</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>JS</li>
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ##
 
 <div>
-  <span>✌️ I'm looking to collaborate on Web Development / Network Infrastructure</span>
+  <span>✌️ I'm looking to collaborate on Web-Mobile Development / Network Infrastructure</span>
 </div>
-<h6>Fun Fact: I like to play video games and I'm in love with coffee but I can't drink too much</h6>
+<h6>Fun Fact: I like to play video games and I'm in love with coffee</h6>
 
 ##
 
@@ -44,7 +44,6 @@ Here are some ideas to get you started:
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Dj-git" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Dj-C" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Dj-html" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Dj-css" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Dj-js" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
